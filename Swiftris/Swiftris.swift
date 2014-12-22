@@ -6,13 +6,13 @@
 //  Copyright (c) 2014 MEB. All rights reserved.
 //
 
-let NumColumns = 10
-let NumRows = 20
+let NumColumns = 12
+let NumRows = 26
 
-let StartingColumn = 4
+let StartingColumn = 5
 let StartingRow = 0
 
-let PreviewColumn = 12
+let PreviewColumn = 15
 let PreviewRow = 1
 
 let PointsPerLine = 10
